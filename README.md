@@ -19,7 +19,3 @@ A PDF with cropped versions of the _The Crew_ and _The Journey_ is also included
 | The Crew     | ![link](the-crew.png) | ![link](the-crew-post.png) | ![link](the-crew-post-alpha.png) |
 | The Ship     | ![link](the-ship.png) | ![link](the-ship-post.png) | ![link](the-ship-post-alpha.png) |
 | The Journey  | ![link](the-journey.png) | ![link](the-journey-post.png) | ![link](the-journey-post-alpha.png) |
-
-## PDF
-
-I ended up putting together everything into a pdf for easy of printing, it can be found .
